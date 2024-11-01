@@ -190,7 +190,7 @@ This project exists thanks to all the people who contribute. [CONTRIBUTING](http
 
 # Security
 
-If you've found a bug regarding security please mail [milwad.dev@gmail.com](mailto:milwad.dev@gmail.com) instead of using the issue tracker.
+If you've found a security bug, please email [milwad.dev@gmail.com](mailto:milwad.dev@gmail.com) instead of using the issue tracker.
 
 # Star History
 
@@ -200,6 +200,6 @@ If you've found a bug regarding security please mail [milwad.dev@gmail.com](mail
 
 If this package is helpful for you, you can buy a coffee for me :) ❤️
 
-- Iranina Gateway: https://daramet.com/milwad_khosravi
+- Iraninan Gateway: https://daramet.com/milwad_khosravi
 - Paypal Gateway: SOON
 - MetaMask Wallet: `0xf208a562c5a93DEf8450b656c3dbc1d0a53BDE58`
