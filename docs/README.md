@@ -1,5 +1,7 @@
 This repository contains the Laravel-Validate Documentation.
 
+- [All Rules](https://github.com/milwad-dev/laravel-validate/blob/1.x/docs/1.x/all-rules.md)
+
 > If you want to start validation of your application with Laravel-Validate, visit the main [Laravel-Validate](https://github.com/milwad-dev/laravel-validate) Repository.
 
 - Explore our docs at [laravel-validate.milwad.com](https://laravel.validate.milwad.com) (Soon) 🎁
