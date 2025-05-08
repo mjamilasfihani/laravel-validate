@@ -1,3 +1,27 @@
+## v1.9.3 - 2025-04-20
+
+### What's Changed
+
+* [1.x] Validation for landline numbers by [@vahidkaargar](https://github.com/vahidkaargar) in https://github.com/milwad-dev/laravel-validate/pull/108
+
+### New Contributors
+
+* [@vahidkaargar](https://github.com/vahidkaargar) made their first contribution in https://github.com/milwad-dev/laravel-validate/pull/108
+
+**Full Changelog**: https://github.com/milwad-dev/laravel-validate/compare/v1.9.2...v1.9.3
+
+## v1.9.2 - 2025-04-04
+
+### What's Changed
+
+* [1.x] Add dutch + update readme by [@it-can](https://github.com/it-can) in https://github.com/milwad-dev/laravel-validate/pull/106
+
+### New Contributors
+
+* [@it-can](https://github.com/it-can) made their first contribution in https://github.com/milwad-dev/laravel-validate/pull/106
+
+**Full Changelog**: https://github.com/milwad-dev/laravel-validate/compare/v1.9.1...v1.9.2
+
 ## v1.9.1 - 2025-03-03
 
 ### What's Changed
